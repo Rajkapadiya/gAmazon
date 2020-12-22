@@ -24,7 +24,7 @@ const Cart = (props)=>{
             <div style={{ float: "left" }}>
               <i className="fa fa-shopping-cart fa-2x"></i>
             </div>
-            <div style={{ marginLeft: "5%" }}>
+            <div style={{ marginLeft: "7%" }}>
               {props.cartData.length === 0 ? "" : props.cartData.length}
             </div>
           </div>
