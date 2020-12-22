@@ -21,6 +21,12 @@ const Sidebar = () => {
         Payment
       </a>
       
+      <a className="menu-item" href="/payment">
+        Payment3
+      </a>
+      <a className="menu-item" href="/payment">
+        Payment56
+      </a>
     </Menu>
   );
 };
