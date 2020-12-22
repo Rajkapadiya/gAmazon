@@ -22,9 +22,16 @@ const Sidebar = () => {
       </a>
 
       <a className="menu-item" href="/payment">
-        Payment2
+        Paymen32131 method 
+        abkdfkd
+        sdsd
       </a>
       
+      <a className="menu-item" href="/payment">
+        Paymen32131 method 
+        abkdfkd
+        sdsd
+      </a>
     </Menu>
   );
 };
