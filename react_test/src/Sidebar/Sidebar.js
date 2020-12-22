@@ -20,6 +20,10 @@ const Sidebar = () => {
       <a className="menu-item" href="/payment">
         Payment
       </a>
+
+      <a className="menu-item" href="/payment">
+        Payment2
+      </a>
       
     </Menu>
   );
